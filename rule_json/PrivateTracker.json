@@ -119,7 +119,6 @@
         "moecat.best",
         "moonburrow.club",
         "morethan.tv",
-        "movies.zsw.ca",
         "msg.vg",
         "myanonamouse.net",
         "nanyangpt.com",
@@ -191,7 +190,6 @@
         "torrentseeds.org",
         "torrentsmd.com",
         "totheglory.im",
-        "tr.abir.ga",
         "tr.burnabyhighstar.com",
         "tr.kxmp.cf",
         "tr.qfruiti.com",
@@ -217,6 +215,7 @@
         "tracker.fnix.net",
         "tracker.gbitt.info",
         "tracker.gcrreen.xyz",
+        "tracker.imgoingto.icu",
         "tracker.ipfsscan.io",
         "tracker.ipv6tracker.org",
         "tracker.ipv6tracker.ru",
@@ -238,10 +237,10 @@
         "tracker.t-rb.org",
         "tracker.tamersunion.org",
         "tracker.theoks.net",
-        "tracker.therarbg.com",
         "tracker.therarbg.to",
         "tracker.tiny-vps.com",
         "tracker.torrent.eu.org",
+        "tracker.torrust-demo.com",
         "tracker.tryhackx.org",
         "tracker.vds.nz",
         "tracker.yemekyedim.com",
@@ -254,9 +253,11 @@
         "tracker2.itzmx.com",
         "tracker3.itzmx.com",
         "tracker4.itzmx.com",
+        "trackers.mlsub.net",
         "trackers.ptlsp.com",
         "trontv.com",
         "ttk2.nbaonlineservice.com",
+        "ttr.croco.net",
         "u.peer-exchange.download",
         "u2.dmhy.org",
         "u4.trakx.crim.ist",
@@ -264,7 +265,6 @@
         "uhdbits.org",
         "wepzone.net",
         "www.all4nothin.net",
-        "www.peckservers.com",
         "www.torrent.eu.org",
         "www.wareztorrent.com",
         "xauat6.edu.cn"
@@ -408,10 +408,8 @@
       "ip_cidr": [
         "207.241.226.111/32",
         "207.241.231.226/32",
-        "46.17.46.112/32",
         "49.12.76.8/32",
-        "52.58.128.163/32",
-        "91.216.110.52/32"
+        "52.58.128.163/32"
       ]
     }
   ],
